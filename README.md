@@ -1,2 +1,1 @@
-# 225-project
-bitcoin prize analysis and prediction
+# Bitcoin-Forecast-DeepLearning
